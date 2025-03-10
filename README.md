@@ -4,11 +4,7 @@
 
 # Download
 
-- [MacOS 64bit]()
-- [Windows 64bit]()
-- [Windows 32bit]()
-- [Linux 64bit]()
-- [Linux 32bit]()
+[Latest release](https://github.com/hoverflycloud/hcc/releases/latest)
 
 
 # Usage
